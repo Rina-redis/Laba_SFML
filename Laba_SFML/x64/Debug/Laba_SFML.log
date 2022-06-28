@@ -1,0 +1,30 @@
+﻿  Laba_SFML.cpp
+H:\програмирование\Laba_SFML\Laba_SFML\Laba_SFML.cpp(20,47): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+H:\програмирование\Laba_SFML\Laba_SFML\Laba_SFML.cpp(20,39): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+H:\програмирование\Laba_SFML\Laba_SFML\Laba_SFML.cpp(29,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+H:\програмирование\Laba_SFML\Laba_SFML\Laba_SFML.cpp(29,59): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Laba_SFML.vcxproj -> H:\програмирование\Laba_SFML\x64\Debug\Laba_SFML.exe
